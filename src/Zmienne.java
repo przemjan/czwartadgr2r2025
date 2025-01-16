@@ -30,5 +30,7 @@ public class Zmienne {
         System.out.print("Mój napis: " + napis);
 
         boolean sun = false; //true
+
+        // https://github.com/przemjan/czwartaDgr2r2025
     }
 }
